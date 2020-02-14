@@ -1,0 +1,7 @@
+{
+    "osmdeploy": {
+        "commands": {
+            "push": "Osmscripts\\Osmdeploy\\Commands\\Push"
+        }
+    }
+}

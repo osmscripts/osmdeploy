@@ -2,7 +2,7 @@
     "name": "osmscripts\/osmdeploy",
     "autoload": {
         "psr-4": {
-            "Osmscripts\\Osmdeploy\\": "src\/"
+            "OsmScripts\\OsmDeploy\\": "src\/"
         }
     },
     "require": {
